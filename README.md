@@ -1,6 +1,4 @@
-# python-calculadora
-
-# Calculadora Simples
+#Python Calculadora Simples
 
 Uma calculadora básica com operações matemáticas, na linguagem Python.
 
